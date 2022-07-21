@@ -1,0 +1,1067 @@
+
+       body {
+           margin: 0;
+       }
+       
+       .box {
+           
+           background: #333333;
+           border: 1px solid #333333;
+           margin: 0 auto;
+       }
+       
+       .boxmin {
+           height: 500px;
+           width: 1200px;
+           border: 1px solid #333333;
+           margin: 150px auto;
+       }
+       
+       .boxmine {
+           height: 500px;
+           width: 500px;
+           border: 1px solid #333333;
+           float: left;
+           text-align: center;
+       }
+       
+       .boxminee img {
+           box-shadow: 2px 2px 10px #000000;
+       }
+       
+       .boxminnes {
+           width: 600px;
+           margin: 30px 0;
+           float: right;
+       }
+       
+       .boxminnes h2 {
+           margin: 40px 0;
+           padding: 0;
+           font-size: 60px;
+           font-family: "微软雅黑";
+           line-height: 80px;
+           color: #ffffff;
+       }
+       
+       .boxminnes p {
+           font-size: 20px;
+           font-family: "微软雅黑";
+           margin: 40px 0 ;
+           padding: 0;
+           line-height: 40px;
+           color: #ffffff;
+       }
+       
+       .boxminnee {
+           width: 236px;
+           height: 77px;
+           background: #ffffff;
+           border-radius: 10px;
+       }
+       
+       @media (max-width: 720px) {
+           body{
+            margin: 0;
+            padding: 0;   
+            width: 720px;
+        }
+           .box {
+               background: #333333;
+               border: 1px solid #333333;
+           }
+           .boxmin {
+               height: 800px;
+               width: 500px;
+               border: 1px solid #333333;
+               margin: 40px auto;
+           }
+           .boxmine {
+               height: 500px;
+               width: 500px;
+               border: 1px solid #333333;
+               clear: both;
+               margin: 0 auto;
+               
+           }
+           .boxminnes {
+               width: 400px;
+               border: 1px solid #333333;
+               margin: 10px auto;
+               clear: both;
+           }
+           .boxminnes h2 {
+               margin: 20px 0;
+               display: block;
+               width: 300px;
+               top: 10px;
+               font-size: 40px;
+               font-family: "微软雅黑";
+               line-height: 45px;
+               color: #ffffff;
+           }
+           .boxminnes p {
+               font-size: 20px;
+               font-family: "微软雅黑";
+               margin: 20px 0;
+               line-height: 24px;
+               color: #ffffff;
+               display: block;
+               width: 300px;
+           }
+           .boxminnee {
+            width: 236px;
+            height: 77px;
+            background: #ffffff;
+            border-radius: 10px;
+            
+            
+        }
+       }
+       /*-------------------------------------------第二个白-------------------------------------------*/
+       
+       .box1 {
+        
+        background: #ffffff;
+        border: 1px solid #ffffff;
+        margin: 0 auto;
+    }
+    
+    .boxmin1 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #ffffff;
+        margin: 150px auto;
+    }
+    
+    .boxmine1 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #ffffff;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee1 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes1 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes1 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #333333;
+    }
+    
+    .boxminnes1 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #333333;
+        margin: 40px 0 40px 0;
+    }
+    
+    .boxminnee1 {
+        width: 236px;
+        height: 77px;
+        background: #f5f5f5;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+       
+        .box1 {
+            
+            background: #ffffff;
+            border: 1px solid #ffffff;
+        }
+        .boxmin1 {
+            height: 860px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            margin: 40px auto;
+        }
+        .boxmine1 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes1 {
+            width: 400px;
+            border: 1px solid #ffffff;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes1 h2 {
+            margin: 20px 0;
+            top: 10px;
+            display: block;
+            width: 300px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #333333;
+            
+        }
+        .boxminnes1 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #333333;
+            display: block;
+            width: 300px;
+            margin: 30px 0 30px 0;
+        }
+        .boxminnee1 {
+            width: 236px;
+            height: 77px;
+            background: #f5f5f5;
+            border-radius: 10px;
+            margin: 20px 0 0 0;
+        }
+    }
+       /*-------------------------------------------第三个黑色-------------------------------------------*/
+       
+       .box2 {
+        height: 800px;
+        background: #333333;
+        border: 1px solid #333333;
+        margin: 0 auto;
+    }
+    
+    .boxmin2 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #333333;
+        margin: 150px auto;
+    }
+    
+    .boxmine2 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #333333;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee2 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes2 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes2 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #ffffff;
+    }
+    
+    .boxminnes2 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #ffffff;
+    }
+    
+    .boxminnee2 {
+        width: 236px;
+        height: 77px;
+        background: #ffffff;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box2 {
+            height: 900px;
+            background: #333333;
+            border: 1px solid #333333;
+        }
+        .boxmin2 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #333333;
+            margin: 40px auto;
+        }
+        .boxmine2 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #333333;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes2 {
+            width: 400px;
+            border: 1px solid #333333;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes2 h2 {
+            margin: 20px 0;
+            display: block;
+            width: 300px;
+            top: 10px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #ffffff;
+        }
+        .boxminnes2 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #ffffff;
+            display: block;
+            width: 300px;
+        }
+    }
+      /*-------------------------------------------第四个白色-------------------------------------------*/
+       
+      .box3 {
+        height: 800px;
+        background: #ffffff;
+        border: 1px solid #ffffff;
+        margin: 0 auto;
+    }
+    
+    .boxmin3 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #ffffff;
+        margin: 150px auto;
+    }
+    
+    .boxmine3 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #ffffff;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee3 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes3 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes3 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #333333;
+    }
+    
+    .boxminnes3 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #333333;
+    }
+    
+    .boxminnee3 {
+        width: 236px;
+        height: 77px;
+        background: #f5f5f5;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box3 {
+            height: 900px;
+            background: #ffffff;
+            border: 1px solid #ffffff;
+        }
+        .boxmin3 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            margin: 40px auto;
+        }
+        .boxmine3 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes3 {
+            width: 400px;
+            border: 1px solid #ffffff;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes3 h2 {
+            margin: 20px 0;
+            top: 10px;
+            display: block;
+            width: 300px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #333333;
+        }
+        .boxminnes3 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #333333;
+            display: block;
+            width: 300px;
+        }
+    }   
+    /*-------------------------------------------第五个黑色-------------------------------------------*/
+       
+    .box4 {
+        height: 800px;
+        background: #333333;
+        border: 1px solid #333333;
+        margin: 0 auto;
+    }
+    
+    .boxmin4 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #333333;
+        margin: 150px auto;
+    }
+    
+    .boxmine4 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #333333;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee4 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes4 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes4 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #ffffff;
+    }
+    
+    .boxminnes4 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #ffffff;
+    }
+    
+    .boxminnee4 {
+        width: 236px;
+        height: 77px;
+        background: #ffffff;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box4 {
+            height: 900px;
+            background: #333333;
+            border: 1px solid #333333;
+        }
+        .boxmin4 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #333333;
+            margin: 40px auto;
+        }
+        .boxmine4 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #333333;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes4 {
+            width: 400px;
+            border: 1px solid #333333;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes4 h2 {
+            margin: 20px 0;
+            display: block;
+            width: 300px;
+            top: 10px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #ffffff;
+        }
+        .boxminnes4 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #ffffff;
+            display: block;
+            width: 300px;
+        }
+    }
+    /*-------------------------------------------第六个白色-------------------------------------------*/
+       
+    .box5 {
+        height: 800px;
+        background: #ffffff;
+        border: 1px solid #ffffff;
+        margin: 0 auto;
+    }
+    
+    .boxmin5 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #ffffff;
+        margin: 150px auto;
+    }
+    
+    .boxmine5 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #ffffff;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee5 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes5 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes5 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #333333;
+    }
+    
+    .boxminnes5 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #333333;
+    }
+    
+    .boxminnee5 {
+        width: 236px;
+        height: 77px;
+        background: #f5f5f5;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box5 {
+            height: 900px;
+            background: #ffffff;
+            border: 1px solid #ffffff;
+        }
+        .boxmin5 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            margin: 40px auto;
+        }
+        .boxmine5 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes5 {
+            width: 400px;
+            border: 1px solid #ffffff;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes5 h2 {
+            margin: 20px 0;
+            top: 10px;
+            display: block;
+            width: 300px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #333333;
+        }
+        .boxminnes5 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #333333;
+            display: block;
+            width: 300px;
+        }
+    } 
+     /*-------------------------------------------第七个黑色-------------------------------------------*/
+       
+     .box6 {
+        height: 800px;
+        background: #333333;
+        border: 1px solid #333333;
+        margin: 0 auto;
+    }
+    
+    .boxmin6 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #333333;
+        margin: 150px auto;
+    }
+    
+    .boxmine6 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #333333;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee6 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes6 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes6 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #ffffff;
+    }
+    
+    .boxminnes6 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #ffffff;
+    }
+    
+    .boxminnee6 {
+        width: 236px;
+        height: 77px;
+        background: #ffffff;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box6 {
+            height: 900px;
+            background: #333333;
+            border: 1px solid #333333;
+        }
+        .boxmin6 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #333333;
+            margin: 40px auto;
+        }
+        .boxmine6 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #333333;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes6{
+            width: 400px;
+            border: 1px solid #333333;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes6 h2 {
+            margin: 20px 0;
+            display: block;
+            width: 300px;
+            top: 10px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #ffffff;
+        }
+        .boxminnes6 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #ffffff;
+            display: block;
+            width: 300px;
+        }
+    }  
+    /*-------------------------------------------第八个白色-------------------------------------------*/
+       
+    .box7 {
+        height: 800px;
+        background: #ffffff;
+        border: 1px solid #ffffff;
+        margin: 0 auto;
+    }
+    
+    .boxmin7 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #ffffff;
+        margin: 150px auto;
+    }
+    
+    .boxmine7 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #ffffff;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee7 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes7 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes7 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #333333;
+    }
+    
+    .boxminnes7 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #333333;
+    }
+    
+    .boxminnee7 {
+        width: 236px;
+        height: 77px;
+        background: #f5f5f5;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box7 {
+            height: 900px;
+            background: #ffffff;
+            border: 1px solid #ffffff;
+        }
+        .boxmin7 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            margin: 40px auto;
+        }
+        .boxmine7 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes7 {
+            width: 400px;
+            border: 1px solid #ffffff;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes7 h2 {
+            margin: 20px 0;
+            top: 10px;
+            display: block;
+            width: 300px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #333333;
+        }
+        .boxminnes7 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #333333;
+            display: block;
+            width: 300px;
+        }
+    } 
+     /*-------------------------------------------第九个黑色-------------------------------------------*/
+       
+     .box8 {
+        height: 800px;
+        background: #333333;
+        border: 1px solid #333333;
+        margin: 0 auto;
+    }
+    
+    .boxmin8 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #333333;
+        margin: 150px auto;
+    }
+    
+    .boxmine8 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #333333;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee8 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes8 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes8 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #ffffff;
+    }
+    
+    .boxminnes8 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #ffffff;
+    }
+    
+    .boxminnee8 {
+        width: 236px;
+        height: 77px;
+        background: #ffffff;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box8 {
+            height: 900px;
+            background: #333333;
+            border: 1px solid #333333;
+        }
+        .boxmin8 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #333333;
+            margin: 40px auto;
+        }
+        .boxmine8 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #333333;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes8 {
+            width: 400px;
+            border: 1px solid #333333;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes8 h2 {
+            margin: 20px 0;
+            display: block;
+            width: 300px;
+            top: 10px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #ffffff;
+        }
+        .boxminnes8 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #ffffff;
+            display: block;
+            width: 300px;
+        }
+    }  
+    /*-------------------------------------------第十个白色-------------------------------------------*/
+       
+    .box9 {
+        height: 800px;
+        background: #ffffff;
+        border: 1px solid #ffffff;
+        margin: 0 auto;
+    }
+    
+    .boxmin9 {
+        height: 500px;
+        width: 1200px;
+        border: 1px solid #ffffff;
+        margin: 150px auto;
+    }
+    
+    .boxmine9 {
+        height: 500px;
+        width: 500px;
+        border: 1px solid #ffffff;
+        float: left;
+        text-align: center;
+    }
+    
+    .boxminee9 img {
+        box-shadow: 2px 2px 10px #000000;
+    }
+    
+    .boxminnes9 {
+        width: 600px;
+        margin: 30px 0;
+        float: right;
+    }
+    
+    .boxminnes9 h2 {
+        margin: 40px 0;
+        padding: 0;
+        font-size: 60px;
+        font-family: "微软雅黑";
+        line-height: 80px;
+        color: #333333;
+    }
+    
+    .boxminnes9 p {
+        font-size: 20px;
+        font-family: "微软雅黑";
+        margin: 40px 0;
+        padding: 0;
+        line-height: 40px;
+        color: #333333;
+    }
+    
+    .boxminnee9 {
+        width: 236px;
+        height: 77px;
+        background: #f5f5f5;
+        border-radius: 10px;
+    }
+    
+    @media (max-width: 720px) {
+        .box9 {
+            height: 900px;
+            background: #ffffff;
+            border: 1px solid #ffffff;
+        }
+        .boxmin9 {
+            height: 800px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            margin: 40px auto;
+        }
+        .boxmine9 {
+            height: 500px;
+            width: 500px;
+            border: 1px solid #ffffff;
+            clear: both;
+            text-align: center;
+        }
+        .boxminnes9 {
+            width: 400px;
+            border: 1px solid #ffffff;
+            margin: 10px auto;
+            clear: both;
+        }
+        .boxminnes9 h2 {
+            margin: 20px 0;
+            top: 10px;
+            display: block;
+            width: 300px;
+            font-size: 40px;
+            font-family: "微软雅黑";
+            line-height: 45px;
+            color: #333333;
+        }
+        .boxminnes9 p {
+            font-size: 20px;
+            font-family: "微软雅黑";
+            margin: 20px 0;
+            line-height: 24px;
+            color: #333333;
+            display: block;
+            width: 300px;
+        }
+    } 

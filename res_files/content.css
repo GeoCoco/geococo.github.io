@@ -27,6 +27,7 @@
        
        .boxminee img {
            box-shadow: 2px 2px 10px #000000;
+		   border-radius: 50px
        }
        
        .boxminnes {
